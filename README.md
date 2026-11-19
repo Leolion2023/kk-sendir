@@ -1,3 +1,7 @@
+| :warning: WARNING           |
+|:----------------------------|
+| This code is unmaintained as this functionality is now supported by Home Assistant natively and there are many available outpost devices     |
+
 # kk-sendir
 
 ![architecture](./assets/architecture-sendir.png)
